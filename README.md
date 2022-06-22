@@ -1,4 +1,4 @@
-# ids_ble_mesh
+# Intrusion detection system for BLE mesh networks
 
 ## Dataset
 
